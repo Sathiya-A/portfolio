@@ -1,0 +1,86 @@
+{
+    "basic_info": {
+      "name": "Sathiya Arthanari",
+      "titles": [ "Front-end Developer"],
+     
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "Webpack",
+          "class": "devicon-webpack-plain-wordmark",
+          "level": "90"
+        },
+        {
+          "name": "Redux",
+          "class": "devicon-redux-original",
+          "level": "90"
+        },
+        {
+          "name": "tailwindcss",
+          "class": "devicon-tailwindcss-plain-wordmark",
+          "level": "90"
+        },
+        {
+          "name": "jest",
+          "class": "devicon-jest-plain",
+          "level": "90"
+        },
+        {
+          "name": "git",
+          "class": "devicon-git-plain",
+          "level": "90"
+        },
+        {
+          "name": "React js",
+          "class": "devicon-react-original",
+          "level": "90"
+        },
+        {
+          "name": "Node js",
+          "class": "devicon-nodejs-plain-wordmark",
+          "level": "90"
+        },
+        {
+          "name": "Expressjs",
+          "class": "devicon-express-original-wordmark",
+          "level": "90"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Figma",
+          "class": "devicon-figma-plain",
+          "level": "90"
+        }      ]
+    }
+  }

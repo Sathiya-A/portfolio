@@ -1,0 +1,220 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I am Sathiya Arthanari.I am a Front end Developer focus on building interactive and responsive web application and custom components.I always seek new ways to improve my technical skills,I enjoy dancing and travelling.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Expense Tracker",
+       
+        "description": "This is a React based Application that allows users to calculate their income/Expenses.There will be a login page which allows users to login the application.",
+        "images": [
+          "images/Expense_tracker.png"
+          
+        ],
+        "url": "https://expense-tracker.sathiya-arthanari.in/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React js"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "Css3"
+          }
+        ]
+      },
+      {
+        "title": "Food Delivery App",
+       
+        "description": "This project is a food delivery simulator, that fetch the data of the menus (or restaurants) and displays it with the map function on the main page.",
+        "images": [
+          "images/Food_delivery_App.png" 
+        ],
+        "url": "https://expense-tracker.sathiya-arthanari.in/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React js"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "Css3"
+          }
+        ]
+      },
+      {
+        "title": "Shopping List",
+       
+        "description": "The Shopping list app made using React js provides the structured approach to organize the items that needs to be purchased",
+        "images": [
+          "images/shopping_list.png"
+          
+        ],
+        "url": "https://shoppinglist.sathiya-arthanari.in/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React js"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "Css3"
+          }
+        ]
+      },
+      {
+        "title": "Frozen Wonders",
+       
+        "description": "The website made for a icecream shop showcases its menu,ambience and services to attract customers and promote brand",
+        "images": [
+          "images/Frozen_wonders.png"
+          
+        ],
+        "url": "https://frozenwonders.sathiya-arthanari.in/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "Css3"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+
+        ]
+      },
+      {
+        "title": "News App",
+        
+        "description": "News App is a web app that shows the latest news in the Home page by fetching the third party API.By clicking on the news, we can able to see the detailed description of the news",
+        "images": [
+          "images/news_app.png"
+          
+        ],
+        "url": "https://newsapp.sathiya-arthanari.in/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React js"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "Css3"
+          }
+        ]
+      }
+     
+      
+    ],
+    "experience": [
+      {
+        "company": "Adcasa",
+        "title": "Software Engineer",
+        "years": "05.2024 - Present",
+        "mainTech": [
+          "React js"
+        ],
+        "technologies": [
+          "React js",
+          "JavaScript",
+          "Bootstrap",
+          "HTML",
+          "CSS"
+        ]
+      },
+      {
+        "company": "Tech Mahindra",
+        "title": "Software Engineer",
+        "years": "01.2022 - 05.2023",
+        "mainTech": [
+          "React js"
+        ],
+        "technologies": [
+          "React js",
+          "JavaScript",
+          "Bootstrap",
+          "HTML",
+          "CSS"
+        ]
+      },
+      {
+        "company": "Tech Mahindra",
+        "title": "Software Engineer",
+        "years": "05.2020 - 04.2021",
+        "mainTech": [
+          "React js"
+        ],
+        "technologies": [
+          "React js",
+          "JavaScript",
+          "Bootstrap",
+          "HTML",
+          "CSS"
+        ]
+      },
+      {
+        "company": "Tech Mahindra",
+        "title": "Associate Software Engineer",
+        "years": "04.2018 - 05.2020",
+        "mainTech": [
+          "Node js"
+        ],
+        "technologies": [
+          "Node js",
+          "Express js",
+          "REST API",
+          "JavaScript",
+          "Bootstrap",
+          "HTML",
+          "CSS"
+        ]
+      }
+    ]
+  }
